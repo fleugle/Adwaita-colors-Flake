@@ -1,0 +1,15 @@
+# Nix build artifacts
+/result
+/result-*
+
+# Nix shell environments
+.shellenv
+
+# Editor and OS-specific files
+*.swp
+*.swo
+*~
+.DS_Store
+
+# To avoid outdated packages
+/flake.lock

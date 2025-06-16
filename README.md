@@ -31,6 +31,8 @@ environment.systemPackages = with pkgs; [
 ];
 ```
 
+These are required for icons fallbacks, as these icons sets are not standalone, but rather are just re-color variants for some of original icons.
+
 Tested on **nixpkgs 25.05**, but should also work with slightly older versions.
 
 ---

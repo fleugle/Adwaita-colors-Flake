@@ -21,7 +21,6 @@
             owner = "dpejoh";
             repo = "Adwaita-colors";
             rev = "main";
-            # Replace this with the actual SHA from `nix-prefetch`
             sha256 = "sha256-LmUvg4OIEiAz7cunh0Ze6UfQA/I9JZZPgNyxCDm/NzE=";
           };
 
