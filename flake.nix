@@ -21,7 +21,7 @@
             owner = "dpejoh";
             repo = "Adwaita-colors";
             rev = "main";
-            sha256 = "sha256-LmUvg4OIEiAz7cunh0Ze6UfQA/I9JZZPgNyxCDm/NzE=";
+            sha256 = "sha256-kTgPD9Q8C5+LmwK5Mww4fh3IJ+mYMh400iQU1/u9iR0=";
           };
 
           installPhase = ''
